@@ -1,5 +1,6 @@
 function Home() {
-    return <h1>All your bases are belong to uS</h1>
+    return <h1>Oi Isis, se ta vendo esta mensagem, dá uma risadinha :D</h1>
+
 }
 
 export default Home;
