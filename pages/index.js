@@ -1,5 +1,5 @@
 function Home() {
-    return (<div><h1>Oi Dani,</h1> <h1>te amo linda</h1> <h3>...se você está vendo esta mensagem, dá uma risadinha :D</h3></div>)
+    return (<div><h1>This is pyrobits</h1> <h1>a naive community for game sketches</h1> <h3>...If you think developping game ideas is funnier than playing them, you are in the right place.</h3></div><div><p>We are under construction</p></div>)
 
 }
 
